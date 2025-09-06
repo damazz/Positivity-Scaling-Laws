@@ -1,5 +1,5 @@
 # Positivity-Scaling-Laws
-extended Hubbard model to demonstrate positivity scaling laws
+Data from the following paper
 
 Citation:
 Schouten, A. O. & Mazziotti, D. A. Entanglement Complexity in Many-body Systems from Positivity
